@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 2c4554f2f8dde4748a806074da937baa
+timeCreated: 1509625303
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bevelPolygon10
+    100002: bevelPolygon11
+    100004: bevelPolygon2
+    100006: bevelPolygon3
+    100008: bevelPolygon4
+    100010: bevelPolygon5
+    100012: bevelPolygon6
+    100014: bevelPolygon7
+    100016: bevelPolygon8
+    100018: CompoundPath1
+    100020: CompoundPath2
+    100022: CompoundPath3
+    100024: CompoundPath4
+    100026: CompoundPath5
+    100028: CompoundPath6
+    100030: CompoundPath7
+    100032: CompoundPath8
+    100034: curve1
+    100036: curve10
+    100038: curve11
+    100040: curve12
+    100042: curve13
+    100044: curve14
+    100046: curve2
+    100048: curve3
+    100050: curve4
+    100052: curve5
+    100054: curve6
+    100056: curve7
+    100058: curve8
+    100060: curve9
+    100062: //RootNode
+    100064: transform2
+    400000: bevelPolygon10
+    400002: bevelPolygon11
+    400004: bevelPolygon2
+    400006: bevelPolygon3
+    400008: bevelPolygon4
+    400010: bevelPolygon5
+    400012: bevelPolygon6
+    400014: bevelPolygon7
+    400016: bevelPolygon8
+    400018: CompoundPath1
+    400020: CompoundPath2
+    400022: CompoundPath3
+    400024: CompoundPath4
+    400026: CompoundPath5
+    400028: CompoundPath6
+    400030: CompoundPath7
+    400032: CompoundPath8
+    400034: curve1
+    400036: curve10
+    400038: curve11
+    400040: curve12
+    400042: curve13
+    400044: curve14
+    400046: curve2
+    400048: curve3
+    400050: curve4
+    400052: curve5
+    400054: curve6
+    400056: curve7
+    400058: curve8
+    400060: curve9
+    400062: //RootNode
+    400064: transform2
+    2300000: bevelPolygon10
+    2300002: bevelPolygon11
+    2300004: bevelPolygon2
+    2300006: bevelPolygon3
+    2300008: bevelPolygon4
+    2300010: bevelPolygon5
+    2300012: bevelPolygon6
+    2300014: bevelPolygon7
+    2300016: bevelPolygon8
+    3300000: bevelPolygon10
+    3300002: bevelPolygon11
+    3300004: bevelPolygon2
+    3300006: bevelPolygon3
+    3300008: bevelPolygon4
+    3300010: bevelPolygon5
+    3300012: bevelPolygon6
+    3300014: bevelPolygon7
+    3300016: bevelPolygon8
+    4300000: bevelPolygon2
+    4300002: bevelPolygon3
+    4300004: bevelPolygon4
+    4300006: bevelPolygon5
+    4300008: bevelPolygon6
+    4300010: bevelPolygon7
+    4300012: bevelPolygon8
+    4300014: bevelPolygon10
+    4300016: bevelPolygon11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

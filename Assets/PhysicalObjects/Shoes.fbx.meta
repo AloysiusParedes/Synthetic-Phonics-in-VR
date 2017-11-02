@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: b0bd8d8cf01b740f89283bbcce78fb5f
+timeCreated: 1509553478
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: shoe4:Arc001
+    100002: shoe4:Arc002
+    100004: shoe4:Arc003
+    100006: shoe4:Arc004
+    100008: shoe4:Arc005
+    100010: shoe4:Arc006
+    100012: shoe4:arka
+    100014: shoe4:arka001
+    100016: shoe4:Box001
+    100018: shoe4:Box002
+    100020: shoe4:Circle001
+    100022: shoe4:Circle002
+    100024: shoe4:Circle011
+    100026: shoe4:Circle014
+    100028: shoe4:dil
+    100030: shoe4:dil001
+    100032: shoe4:gri
+    100034: shoe4:gri001
+    100036: shoe4:Line001
+    100038: shoe4:Line002
+    100040: shoe4:Mesh
+    100042: shoe4:Mesh1
+    100044: shoe4:Object001
+    100046: shoe4:Object002
+    100048: shoe4:taban
+    100050: shoe4:taban001
+    100052: //RootNode
+    400000: shoe4:Arc001
+    400002: shoe4:Arc002
+    400004: shoe4:Arc003
+    400006: shoe4:Arc004
+    400008: shoe4:Arc005
+    400010: shoe4:Arc006
+    400012: shoe4:arka
+    400014: shoe4:arka001
+    400016: shoe4:Box001
+    400018: shoe4:Box002
+    400020: shoe4:Circle001
+    400022: shoe4:Circle002
+    400024: shoe4:Circle011
+    400026: shoe4:Circle014
+    400028: shoe4:dil
+    400030: shoe4:dil001
+    400032: shoe4:gri
+    400034: shoe4:gri001
+    400036: shoe4:Line001
+    400038: shoe4:Line002
+    400040: shoe4:Mesh
+    400042: shoe4:Mesh1
+    400044: shoe4:Object001
+    400046: shoe4:Object002
+    400048: shoe4:taban
+    400050: shoe4:taban001
+    400052: //RootNode
+    2300000: shoe4:Arc001
+    2300002: shoe4:Arc002
+    2300004: shoe4:Arc003
+    2300006: shoe4:Arc004
+    2300008: shoe4:Arc005
+    2300010: shoe4:Arc006
+    2300012: shoe4:arka
+    2300014: shoe4:arka001
+    2300016: shoe4:Box001
+    2300018: shoe4:Box002
+    2300020: shoe4:Circle001
+    2300022: shoe4:Circle002
+    2300024: shoe4:Circle011
+    2300026: shoe4:Circle014
+    2300028: shoe4:dil
+    2300030: shoe4:dil001
+    2300032: shoe4:gri
+    2300034: shoe4:gri001
+    2300036: shoe4:Line001
+    2300038: shoe4:Line002
+    2300040: shoe4:Mesh
+    2300042: shoe4:Mesh1
+    2300044: shoe4:Object001
+    2300046: shoe4:Object002
+    2300048: shoe4:taban
+    2300050: shoe4:taban001
+    3300000: shoe4:Arc001
+    3300002: shoe4:Arc002
+    3300004: shoe4:Arc003
+    3300006: shoe4:Arc004
+    3300008: shoe4:Arc005
+    3300010: shoe4:Arc006
+    3300012: shoe4:arka
+    3300014: shoe4:arka001
+    3300016: shoe4:Box001
+    3300018: shoe4:Box002
+    3300020: shoe4:Circle001
+    3300022: shoe4:Circle002
+    3300024: shoe4:Circle011
+    3300026: shoe4:Circle014
+    3300028: shoe4:dil
+    3300030: shoe4:dil001
+    3300032: shoe4:gri
+    3300034: shoe4:gri001
+    3300036: shoe4:Line001
+    3300038: shoe4:Line002
+    3300040: shoe4:Mesh
+    3300042: shoe4:Mesh1
+    3300044: shoe4:Object001
+    3300046: shoe4:Object002
+    3300048: shoe4:taban
+    3300050: shoe4:taban001
+    4300000: shoe4:Circle001
+    4300002: shoe4:Box001
+    4300004: shoe4:Circle002
+    4300006: shoe4:dil
+    4300008: shoe4:Arc003
+    4300010: shoe4:Arc002
+    4300012: shoe4:Arc001
+    4300014: shoe4:gri
+    4300016: shoe4:Mesh
+    4300018: shoe4:Object001
+    4300020: shoe4:Line001
+    4300022: shoe4:taban
+    4300024: shoe4:arka
+    4300026: shoe4:Circle011
+    4300028: shoe4:Box002
+    4300030: shoe4:Circle014
+    4300032: shoe4:dil001
+    4300034: shoe4:Arc004
+    4300036: shoe4:Arc005
+    4300038: shoe4:Arc006
+    4300040: shoe4:gri001
+    4300042: shoe4:Mesh1
+    4300044: shoe4:Object002
+    4300046: shoe4:Line002
+    4300048: shoe4:taban001
+    4300050: shoe4:arka001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

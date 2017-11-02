@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 3476a73de991f475fa674da4c67f57bf
+timeCreated: 1509561751
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: dhome:AwningWindow01
+    100002: dhome:AwningWindow02
+    100004: dhome:AwningWindow03
+    100006: dhome:AwningWindow04
+    100008: dhome:AwningWindow05
+    100010: dhome:AwningWindow06
+    100012: dhome:BiFoldDoor01
+    100014: dhome:Box01
+    100016: dhome:Box02
+    100018: dhome:Box03
+    100020: dhome:Box04
+    100022: dhome:Box09
+    100024: dhome:Box10
+    100026: dhome:Box11
+    100028: dhome:Box12
+    100030: dhome:Box13
+    100032: dhome:Box14
+    100034: dhome:Box15
+    100036: dhome:Box16
+    100038: dhome:Box17
+    100040: dhome:Box18
+    100042: dhome:Box19
+    100044: dhome:Box20
+    100046: dhome:Box21
+    100048: dhome:Box22
+    100050: dhome:Box23
+    100052: dhome:Plane01
+    100054: dhome:Plane02
+    100056: dhome:Plane03
+    100058: dhome:Plane04
+    100060: dhome:Plane05
+    100062: dhome:Plane06
+    100064: dhome:Wall01
+    100066: //RootNode
+    400000: dhome:AwningWindow01
+    400002: dhome:AwningWindow02
+    400004: dhome:AwningWindow03
+    400006: dhome:AwningWindow04
+    400008: dhome:AwningWindow05
+    400010: dhome:AwningWindow06
+    400012: dhome:BiFoldDoor01
+    400014: dhome:Box01
+    400016: dhome:Box02
+    400018: dhome:Box03
+    400020: dhome:Box04
+    400022: dhome:Box09
+    400024: dhome:Box10
+    400026: dhome:Box11
+    400028: dhome:Box12
+    400030: dhome:Box13
+    400032: dhome:Box14
+    400034: dhome:Box15
+    400036: dhome:Box16
+    400038: dhome:Box17
+    400040: dhome:Box18
+    400042: dhome:Box19
+    400044: dhome:Box20
+    400046: dhome:Box21
+    400048: dhome:Box22
+    400050: dhome:Box23
+    400052: dhome:Plane01
+    400054: dhome:Plane02
+    400056: dhome:Plane03
+    400058: dhome:Plane04
+    400060: dhome:Plane05
+    400062: dhome:Plane06
+    400064: dhome:Wall01
+    400066: //RootNode
+    2300000: dhome:AwningWindow01
+    2300002: dhome:AwningWindow02
+    2300004: dhome:AwningWindow03
+    2300006: dhome:AwningWindow04
+    2300008: dhome:AwningWindow05
+    2300010: dhome:AwningWindow06
+    2300012: dhome:BiFoldDoor01
+    2300014: dhome:Box01
+    2300016: dhome:Box02
+    2300018: dhome:Box03
+    2300020: dhome:Box04
+    2300022: dhome:Box09
+    2300024: dhome:Box10
+    2300026: dhome:Box11
+    2300028: dhome:Box12
+    2300030: dhome:Box13
+    2300032: dhome:Box14
+    2300034: dhome:Box15
+    2300036: dhome:Box16
+    2300038: dhome:Box17
+    2300040: dhome:Box18
+    2300042: dhome:Box19
+    2300044: dhome:Box20
+    2300046: dhome:Box21
+    2300048: dhome:Box22
+    2300050: dhome:Box23
+    2300052: dhome:Plane01
+    2300054: dhome:Plane02
+    2300056: dhome:Plane03
+    2300058: dhome:Plane04
+    2300060: dhome:Plane05
+    2300062: dhome:Plane06
+    2300064: dhome:Wall01
+    3300000: dhome:AwningWindow01
+    3300002: dhome:AwningWindow02
+    3300004: dhome:AwningWindow03
+    3300006: dhome:AwningWindow04
+    3300008: dhome:AwningWindow05
+    3300010: dhome:AwningWindow06
+    3300012: dhome:BiFoldDoor01
+    3300014: dhome:Box01
+    3300016: dhome:Box02
+    3300018: dhome:Box03
+    3300020: dhome:Box04
+    3300022: dhome:Box09
+    3300024: dhome:Box10
+    3300026: dhome:Box11
+    3300028: dhome:Box12
+    3300030: dhome:Box13
+    3300032: dhome:Box14
+    3300034: dhome:Box15
+    3300036: dhome:Box16
+    3300038: dhome:Box17
+    3300040: dhome:Box18
+    3300042: dhome:Box19
+    3300044: dhome:Box20
+    3300046: dhome:Box21
+    3300048: dhome:Box22
+    3300050: dhome:Box23
+    3300052: dhome:Plane01
+    3300054: dhome:Plane02
+    3300056: dhome:Plane03
+    3300058: dhome:Plane04
+    3300060: dhome:Plane05
+    3300062: dhome:Plane06
+    3300064: dhome:Wall01
+    4300000: dhome:Wall01
+    4300002: dhome:Box01
+    4300004: dhome:Box02
+    4300006: dhome:BiFoldDoor01
+    4300008: dhome:Box09
+    4300010: dhome:Box10
+    4300012: dhome:Box11
+    4300014: dhome:AwningWindow01
+    4300016: dhome:AwningWindow02
+    4300018: dhome:AwningWindow03
+    4300020: dhome:AwningWindow04
+    4300022: dhome:AwningWindow05
+    4300024: dhome:AwningWindow06
+    4300026: dhome:Plane02
+    4300028: dhome:Plane03
+    4300030: dhome:Plane04
+    4300032: dhome:Plane05
+    4300034: dhome:Plane01
+    4300036: dhome:Plane06
+    4300038: dhome:Box03
+    4300040: dhome:Box12
+    4300042: dhome:Box13
+    4300044: dhome:Box14
+    4300046: dhome:Box15
+    4300048: dhome:Box16
+    4300050: dhome:Box17
+    4300052: dhome:Box18
+    4300054: dhome:Box19
+    4300056: dhome:Box20
+    4300058: dhome:Box21
+    4300060: dhome:Box22
+    4300062: dhome:Box04
+    4300064: dhome:Box23
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

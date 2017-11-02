@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CB0489DC-77B5-EE02-E1B2-3186513C7B4A}</ProjectGuid>
+    <ProjectGuid>{0C97137B-2746-DEE4-7B1C-163FE53BCD9A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,9 +47,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\FloatRotate.cs" />
+     <Compile Include="Assets\Scripts\ballAudio.cs" />
      <Compile Include="Assets\Scripts\fallingScript.cs" />
+     <Compile Include="Assets\Scripts\interactionScript.cs" />
      <Compile Include="Assets\Scripts\interactionsVariables.cs" />
      <Compile Include="Assets\Scripts\meshEnabler.cs" />
+     <Compile Include="Assets\Scripts\spawnBallScript.cs" />
+     <Compile Include="Assets\Scripts\staticVariables.cs" />
      <Compile Include="Assets\Scripts\stepScript.cs" />
      <Compile Include="Assets\Scripts\swayScript.cs" />
      <Compile Include="Assets\module-omicron\CAVE2\Networking\CAVE2VRLobbyManager.cs" />
@@ -157,7 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{136B88E9-7586-1039-FE40-94B221A76855}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{B4A7137E-8581-C69C-E45A-BA6411AAE8B3}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

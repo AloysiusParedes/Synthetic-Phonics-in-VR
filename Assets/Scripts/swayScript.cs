@@ -12,7 +12,7 @@ public class swayScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		print (transform.rotation.ToString());
+		//print (transform.rotation.ToString());
 
 
 		if (transform.rotation.z >= 0.1 && speedOfSway > 0) 

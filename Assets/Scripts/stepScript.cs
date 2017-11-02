@@ -12,7 +12,7 @@ public class stepScript : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		print (transform.rotation.ToString());
+		//print (transform.rotation.ToString());
 
 		if (transform.rotation.x >= 0.2 && speedOfStep > 0) 
 			speedOfStep *= -1;

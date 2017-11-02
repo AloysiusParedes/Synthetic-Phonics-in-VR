@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2C2A6988-0510-7475-38B0-4F14D438F932}</ProjectGuid>
+    <ProjectGuid>{603FB66B-F11C-DBEE-FE75-998C98F5AF79}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+     <Compile Include="Assets\Editor\SplitTerrain.cs" />
      <Compile Include="Assets\module-omicron\CAVE2\Scripts\Editor\OmicronEditorMode.cs" />
      <None Include="Assets\module-omicron\Shaders\Transparent-InvisibleShadowCaster.shader" />
      <None Include="Assets\module-omicron\CAVE2\Shaders\CAVE2-UI Default.shader" />
@@ -69,9 +70,6 @@
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
      <None Include="Assets\module-omicron\CAVE2\Shaders\CAVE2ScreenMaskShader.shader" />
      <None Include="Assets\getReal3D\Resources\editor_config.xml" />
- <Reference Include="Assembly-UnityScript">
- <HintPath>/Users/aloysiusparedes/Documents/CS491/Word Search/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -129,9 +127,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{136B88E9-7586-1039-FE40-94B221A76855}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{B4A7137E-8581-C69C-E45A-BA6411AAE8B3}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{CB0489DC-77B5-EE02-E1B2-3186513C7B4A}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{0C97137B-2746-DEE4-7B1C-163FE53BCD9A}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

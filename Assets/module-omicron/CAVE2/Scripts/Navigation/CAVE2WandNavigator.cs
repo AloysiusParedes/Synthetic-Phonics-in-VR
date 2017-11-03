@@ -136,6 +136,10 @@ public class CAVE2WandNavigator : MonoBehaviour {
             else
                 SetNavigationMode((int)NavigationMode.Walk);
         }
+
+		if (CAVE2.Input.GetButtonDown (wandID, CAVE2.Button.Button3)) {
+			staticVariables.ballInteractions++;
+		}
     }
 
     void SetNavigationMode(int val)

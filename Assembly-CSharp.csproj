@@ -46,17 +46,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Audio Scripts\appleAudio.cs" />
      <Compile Include="Assets\Scripts\Audio Scripts\ballAudio.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\bookAudio.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\flowerAudio.cs" />
      <Compile Include="Assets\Scripts\Audio Scripts\getReadyAudio.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\homeAudio.cs" />
      <Compile Include="Assets\Scripts\Audio Scripts\instructionsAudio.cs" />
      <Compile Include="Assets\Scripts\Audio Scripts\playWithTheBallAudio.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\shoeAudio.cs" />
      <Compile Include="Assets\Scripts\Audio Scripts\wordSearchAudio.cs" />
      <Compile Include="Assets\Scripts\Object Scripts\FloatRotate.cs" />
      <Compile Include="Assets\Scripts\Object Scripts\fallingScript.cs" />
      <Compile Include="Assets\Scripts\Object Scripts\spawnBallScript.cs" />
      <Compile Include="Assets\Scripts\Object Scripts\stepScript.cs" />
      <Compile Include="Assets\Scripts\Object Scripts\swayScript.cs" />
+     <Compile Include="Assets\Scripts\Type Scripts\spawnFindTheFlower.cs" />
+     <Compile Include="Assets\Scripts\Type Scripts\spawnFindTheShoe.cs" />
+     <Compile Include="Assets\Scripts\Type Scripts\spawnLookAtTheBook.cs" />
      <Compile Include="Assets\Scripts\Type Scripts\spawnPlayWithTheBall.cs" />
+     <Compile Include="Assets\Scripts\Type Scripts\spawnWalkToTheHome.cs" />
+     <Compile Include="Assets\Scripts\Type Scripts\spawnWhereIsTheApple.cs" />
      <Compile Include="Assets\Scripts\interactionScript.cs" />
      <Compile Include="Assets\Scripts\staticVariables.cs" />
      <Compile Include="Assets\module-omicron\CAVE2\Networking\CAVE2VRLobbyManager.cs" />

@@ -14,7 +14,7 @@ public class spawnBallScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//print (staticVariables.ballInteractions);
-		if (staticVariables.sequence >= 13) {
+		if (staticVariables.sequence == 15) {
 			//print ("SPAWNING BALL");
 			ball.active = true;
 		}

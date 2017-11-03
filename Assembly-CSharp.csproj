@@ -46,16 +46,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\FloatRotate.cs" />
-     <Compile Include="Assets\Scripts\ballAudio.cs" />
-     <Compile Include="Assets\Scripts\fallingScript.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\ballAudio.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\getReadyAudio.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\instructionsAudio.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\playWithTheBallAudio.cs" />
+     <Compile Include="Assets\Scripts\Audio Scripts\wordSearchAudio.cs" />
+     <Compile Include="Assets\Scripts\Object Scripts\FloatRotate.cs" />
+     <Compile Include="Assets\Scripts\Object Scripts\fallingScript.cs" />
+     <Compile Include="Assets\Scripts\Object Scripts\spawnBallScript.cs" />
+     <Compile Include="Assets\Scripts\Object Scripts\stepScript.cs" />
+     <Compile Include="Assets\Scripts\Object Scripts\swayScript.cs" />
+     <Compile Include="Assets\Scripts\Type Scripts\spawnPlayWithTheBall.cs" />
      <Compile Include="Assets\Scripts\interactionScript.cs" />
-     <Compile Include="Assets\Scripts\interactionsVariables.cs" />
-     <Compile Include="Assets\Scripts\meshEnabler.cs" />
-     <Compile Include="Assets\Scripts\spawnBallScript.cs" />
      <Compile Include="Assets\Scripts\staticVariables.cs" />
-     <Compile Include="Assets\Scripts\stepScript.cs" />
-     <Compile Include="Assets\Scripts\swayScript.cs" />
      <Compile Include="Assets\module-omicron\CAVE2\Networking\CAVE2VRLobbyManager.cs" />
      <Compile Include="Assets\module-omicron\CAVE2\Networking\CharacterLabelUI.cs" />
      <Compile Include="Assets\module-omicron\CAVE2\Networking\NetworkedVRPlayerManager.cs" />

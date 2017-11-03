@@ -11,6 +11,7 @@ public class staticVariables : MonoBehaviour {
 	public static int flowerInteractions = 0;
 	public static int homeInteractions = 0;
 
+	public static int sequence = 0;
 	// Use this for initialization
 	void Start () {
 		

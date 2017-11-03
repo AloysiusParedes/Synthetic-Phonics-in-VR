@@ -138,7 +138,8 @@ public class CAVE2WandNavigator : MonoBehaviour {
         }
 
 		if (CAVE2.Input.GetButtonDown (wandID, CAVE2.Button.Button3)) {
-			staticVariables.ballInteractions++;
+			//staticVariables.ballInteractions++;
+			staticVariables.sequence++;
 		}
     }
 

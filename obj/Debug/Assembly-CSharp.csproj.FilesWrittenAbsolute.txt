@@ -22,3 +22,27 @@
 /Users/aloysiusparedes/Documents/CS491/Word Search/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/aloysiusparedes/Documents/CS491/Word Search/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/aloysiusparedes/Documents/CS491/Word Search/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/obj/Debug/Assembly-CSharp.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/UnityEngine.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/UnityEditor.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/nunit.framework.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Mono.Cecil.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Unity.DataContract.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/aloysiusparedes/Downloads/Synthetic Phonics in VR/Temp/bin/Debug/Mono.Cecil.Mdb.dll

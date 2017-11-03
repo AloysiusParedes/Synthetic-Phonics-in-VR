@@ -23,6 +23,7 @@ public class spawnWhereIsTheApple : MonoBehaviour {
 			is1.active = true;
 			the.active = true;
 			apple.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

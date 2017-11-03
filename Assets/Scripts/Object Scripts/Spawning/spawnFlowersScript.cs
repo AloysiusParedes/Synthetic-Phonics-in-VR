@@ -17,6 +17,7 @@ public class spawnFlowersScript : MonoBehaviour {
 		if (staticVariables.sequence == 55) {
 			//print ("SPAWNING BALL");
 			flowers.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

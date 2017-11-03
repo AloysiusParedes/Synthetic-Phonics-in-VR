@@ -23,6 +23,7 @@ public class spawnWalkToTheHome : MonoBehaviour {
 			to.active = true;
 			the.active = true;
 			home.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

@@ -21,6 +21,7 @@ public class spawnFindTheFlower : MonoBehaviour {
 			find.active = true;
 			the.active = true;
 			flower.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

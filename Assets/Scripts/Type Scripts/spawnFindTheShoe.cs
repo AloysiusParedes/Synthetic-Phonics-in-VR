@@ -21,6 +21,7 @@ public class spawnFindTheShoe : MonoBehaviour {
 			find.active = true;
 			the.active = true;
 			shoe.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

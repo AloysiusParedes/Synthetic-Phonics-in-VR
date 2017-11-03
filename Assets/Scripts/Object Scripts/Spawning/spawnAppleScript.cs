@@ -16,6 +16,7 @@ public class spawnAppleScript : MonoBehaviour {
 		if (staticVariables.sequence == 35) {
 			//print ("SPAWNING BALL");
 			apple.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

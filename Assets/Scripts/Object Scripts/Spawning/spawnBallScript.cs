@@ -17,6 +17,7 @@ public class spawnBallScript : MonoBehaviour {
 		if (staticVariables.sequence == 15) {
 			//print ("SPAWNING BALL");
 			ball.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

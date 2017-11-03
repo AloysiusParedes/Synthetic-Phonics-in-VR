@@ -23,6 +23,7 @@ public class spawnPlayWithTheBall : MonoBehaviour {
 			with.active = true;
 			the.active = true;
 			ball.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

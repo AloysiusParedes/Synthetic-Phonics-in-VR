@@ -23,6 +23,7 @@ public class spawnLookAtTheBook : MonoBehaviour {
 			at.active = true;
 			the.active = true;
 			book.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

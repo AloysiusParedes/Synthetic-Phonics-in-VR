@@ -17,6 +17,7 @@ public class spawnBookScript : MonoBehaviour {
 		if (staticVariables.sequence == 45) {
 			//print ("SPAWNING BALL");
 			book.active = true;
+			staticVariables.sequence++;
 		}
 	}
 }

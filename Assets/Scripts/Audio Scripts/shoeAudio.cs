@@ -17,7 +17,7 @@ public class shoeAudio : MonoBehaviour {
 		if (staticVariables.sequence == 19 ||
 			staticVariables.sequence == 21 ||
 			staticVariables.sequence == 23) {
-			AudioSource.PlayClipAtPoint(clip, position);
+			AudioSource.PlayClipAtPoint(clip, position, 2f);
 			staticVariables.sequence++;
 		}
 	}

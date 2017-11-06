@@ -17,7 +17,7 @@ public class appleAudio : MonoBehaviour {
 		if (staticVariables.sequence == 29 ||
 			staticVariables.sequence == 31 ||
 			staticVariables.sequence == 33) {
-			AudioSource.PlayClipAtPoint(clip, position);
+			AudioSource.PlayClipAtPoint(clip, position, 2f);
 			staticVariables.sequence++;
 		}
 	}

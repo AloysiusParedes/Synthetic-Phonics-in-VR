@@ -17,7 +17,7 @@ public class homeAudio : MonoBehaviour {
 		if (staticVariables.sequence == 59 ||
 			staticVariables.sequence == 61 ||
 			staticVariables.sequence == 63) {
-			AudioSource.PlayClipAtPoint(clip, position);
+			AudioSource.PlayClipAtPoint(clip, position, 2f);
 			staticVariables.sequence++;
 		}
 	}

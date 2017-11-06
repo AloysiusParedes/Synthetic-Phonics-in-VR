@@ -17,7 +17,7 @@ public class flowerAudio : MonoBehaviour {
 		if (staticVariables.sequence == 49 ||
 			staticVariables.sequence == 51 ||
 			staticVariables.sequence == 53) {
-			AudioSource.PlayClipAtPoint(clip, position);
+			AudioSource.PlayClipAtPoint(clip, position, 2f);
 			staticVariables.sequence++;
 		}
 	}

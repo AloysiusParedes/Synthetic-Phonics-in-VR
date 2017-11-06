@@ -17,7 +17,8 @@ public class bookAudio : MonoBehaviour {
 		if (staticVariables.sequence == 39 ||
 			staticVariables.sequence == 41 ||
 			staticVariables.sequence == 43) {
-			AudioSource.PlayClipAtPoint(clip, position);
+
+			AudioSource.PlayClipAtPoint(clip, position, 2f);
 			staticVariables.sequence++;
 		}
 	}
